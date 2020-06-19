@@ -1,2 +1,3 @@
 Tshis file is to test git deployment process
+Developer 1 had made some changes
 Tester has also made some changes
